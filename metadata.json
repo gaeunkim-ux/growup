@@ -1,0 +1,6 @@
+{
+  "name": "대학생 자기계발 스마트 성장 가이드",
+  "description": "대학생들을 위한 AI 맞춤 로드맵 설계, 뽀모도로 타이머, 습관 관리 및 깃허브/Vercel 배포 가이드를 제공하는 자기계발 랜딩 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
